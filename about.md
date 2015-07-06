@@ -1,4 +1,7 @@
-# [Odin Expo](https://wpbrasil.github.io/odin-expo/)
+---
+layout: page
+title: Sobre
+---
 
 Odin Expo é um *showcase* de sites desenvolvidos com [Odin](https://github.com/wpbrasil/odin), criado pela comunidade [WordPress Brasil](https://github.com/wpbrasil)
 
@@ -18,19 +21,3 @@ Para enviar uma sugestão de site, [abra uma issue](https://github.com/wpbrasil/
 ## Sobre este site
 Inspirado em [Bootstrap Expo](http://expo.getbootstrap.com/), [Built With Ember](http://builtwithember.io/) e [Beautiful Open](http://beautifulopen.com/).
 Este site é feito como [Jekyll](http://jekyllrb.com), desenvolvido no [GitHub](https://github.com/wpbrasil/odin-expo), e é hospedado no [GitHub Pages](https://pages.github.com).
-
-### Execute o site localmente
-```
-$ gem install jekyll
-$ git clone https://github.com/wpbrasil/odin-expo.git
-$ cd odin-expo
-$ jekyll serve --watch --baseurl=''
-```
-
-### Capturar screenshots
-```
-npm install -g phantomjs async
-phantomjs snap.js http://algumsite.com oNomeDoSite
-```
-
-Talvez a captura da imagem não fique boa. Mas pode ajudar a ver como deveria ser mais ou menos.
