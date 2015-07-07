@@ -10,5 +10,4 @@ encoding:    UTF-8
 future:      false
 name:        Odin Expo
 url:         http://expo.wpod.in
-baseurl:     /
 description: "Projetos desenvolvidos com Odin Framework"
