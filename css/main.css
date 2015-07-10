@@ -6,6 +6,7 @@ body {
 }
 
 .site-name {
+  font-size: 45px;
   color:#3f3f3f;
 }
 
@@ -14,9 +15,15 @@ body {
   color:#3f3f3f;
 }
 
+.site-logo { 
+	width: 170px;
+}
+
 .main-sidebar {
   position:fixed;
+  height: 100%;
   width:230px;
+  overflow-x:auto;
   margin-left:30px;
   font-size: 14px;
 }
@@ -27,7 +34,7 @@ h2 {
 
 h1 {
   margin-top:0;
-  font-size: 47px ;
+  font-size: 47px;
   font-weight: 200;
   line-height: 50px;
 }
