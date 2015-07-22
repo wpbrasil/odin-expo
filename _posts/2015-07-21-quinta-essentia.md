@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quinta Essentia"
-slug: quinta-essentiaa
+slug: quinta-essentia
 source: http://quintaessentia.com.br/
-screenshot: quinta-essentia.jpg
+screenshot: quinta-essentia.png
 ---
