@@ -9,6 +9,5 @@ paginate:    5
 encoding:    UTF-8
 future:      false
 name:        Odin Expo
-url:         https://wpbrasil.github.io
-baseurl:     /odin-expo
+url:         http://expo.wpod.in
 description: "Projetos desenvolvidos com Odin Framework"
