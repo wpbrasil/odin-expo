@@ -1,6 +1,6 @@
-# [Odin Expo](https://wpbrasil.github.io/odin-expo/)
+# Odin Expo
 
-Odin Expo é um *showcase* de sites desenvolvidos com [Odin](https://github.com/wpbrasil/odin), criado pela comunidade [WordPress Brasil](https://github.com/wpbrasil).
+[Odin Expo](http://expo.wpod.in/) é um *showcase* de sites desenvolvidos com [Odin](https://github.com/wpbrasil/odin), criado pela comunidade [WordPress Brasil](https://github.com/wpbrasil).
 
 ## Como enviar um site
 
