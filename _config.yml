@@ -11,3 +11,6 @@ future:      false
 name:        Odin Expo
 url:         http://expo.wpod.in
 description: "Projetos desenvolvidos com Odin Framework"
+
+# Gems
+gems: [jekyll-paginate]
