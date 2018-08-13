@@ -82,11 +82,6 @@ h1 {
   color: #a2a2a2;
 }
 
-.post-going-back {
-  color: #a2a2a2;
-  margin: 0 0 11px;
-}
-
 .post-description-link {
   color: black;
 }
@@ -141,13 +136,13 @@ a.paginate:hover {
 /************/
 .browser-frame {
   border-radius: 5px;
-  border: 2px solid #ccc;
+  border: 2px solid #CCC;
   width: 100%;
   max-width: 1004px;
 }
 
 .browser-top-bar {
-  border-bottom: 2px solid #ccc;
+  border-bottom: 2px solid #CCC;
   width: 100%;
   float: left;
 }
@@ -170,7 +165,7 @@ a.paginate:hover {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background-color: #ccc;
+  background-color: #CCC;
 }
 
 .browser-container > p {
