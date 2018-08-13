@@ -4,8 +4,13 @@ layout: default
 
 <div class="posts">
   <div class="post-description">
-    <h3 class="post-description-title"><a href="{{ site.baseurl }}{{ page.url }}" class="post-description-link">{{ page.title }}</a></h3>
-    <p class="post-description-date">{{ page.date | date: "%B %-d, %Y" }}</p>
+    <h3 class="post-description-title">
+      <a href="{{ site.baseurl }}{{ page.url }}" class="post-description-link">{{ page.title }}</a>
+    </h3>
+    <p class="post-description-date">{{ page.date | date: "%d/%m/%Y" }}</p>
+    <p class="post-going-back">
+      <a href="{{ site.baseurl }}">Voltar ao início</a>
+    </p>
   </div>
 
   <a href="{{ page.source }}" class="screenshot-link" target="_blank">
